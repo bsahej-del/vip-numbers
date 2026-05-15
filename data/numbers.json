@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "number": "+91 99999 99999",
+    "price": 500000,
+    "category": "platinum",
+    "pattern": "Repeating 9s",
+    "description": "The most iconic VIP number — ten 9s. Absolute top-tier for any business or celebrity.",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "number": "+91 88888 88888",
+    "price": 450000,
+    "category": "platinum",
+    "pattern": "Repeating 8s",
+    "description": "Eight is the luckiest number in many cultures. Six consecutive 8s — extremely rare.",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "number": "+91 77777 77777",
+    "price": 380000,
+    "category": "platinum",
+    "pattern": "Repeating 7s",
+    "description": "Lucky 7s all the way. Premium number that commands instant attention and recall.",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "4",
+    "number": "+91 90000 00009",
+    "price": 250000,
+    "category": "platinum",
+    "pattern": "Bookend",
+    "description": "Starts and ends with 9 with zeros in between. Elegant, minimal, unforgettable.",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "5",
+    "number": "+91 98765 43210",
+    "price": 150000,
+    "category": "gold",
+    "pattern": "Full descending sequence",
+    "description": "Perfect countdown from 9 to 0. The most memorable sequential pattern possible.",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "6",
+    "number": "+91 90909 09090",
+    "price": 120000,
+    "category": "gold",
+    "pattern": "Alternating 9-0",
+    "description": "Alternating 9 and 0 pattern throughout. Highly distinctive and easy to remember.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "7",
+    "number": "+91 91111 11111",
+    "price": 200000,
+    "category": "platinum",
+    "pattern": "Repeating 1s",
+    "description": "Nine consecutive 1s — pure and powerful. Perfect for a brand that stands for simplicity.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "8",
+    "number": "+91 98989 89898",
+    "price": 95000,
+    "category": "gold",
+    "pattern": "Alternating 9-8",
+    "description": "Alternating 9 and 8 — top two digits, alternating perfectly. Very rare pattern.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "9",
+    "number": "+91 80000 00008",
+    "price": 180000,
+    "category": "platinum",
+    "pattern": "Palindrome",
+    "description": "Perfect palindrome — reads the same forwards and backwards. One of a kind.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "10",
+    "number": "+91 99100 00199",
+    "price": 45000,
+    "category": "silver",
+    "pattern": "Mirror ends",
+    "description": "Mirrored digits at both ends with clean zeros in the middle. Elegant pattern.",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "11",
+    "number": "+91 70007 00070",
+    "price": 55000,
+    "category": "silver",
+    "pattern": "Triple bookend",
+    "description": "7s framing zeros in a repeating bookend pattern. Unique and highly recognizable.",
+    "available": false,
+    "featured": false
+  },
+  {
+    "id": "12",
+    "number": "+91 98001 10089",
+    "price": 25000,
+    "category": "silver",
+    "pattern": "Palindrome",
+    "description": "Reads the same from both ends. A solid VIP number at a great price point.",
+    "available": true,
+    "featured": false
+  }
+]

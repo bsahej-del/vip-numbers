@@ -47,7 +47,7 @@ export default function FAQPage() {
         <p className="text-white font-semibold mb-2">Still have questions?</p>
         <p className="text-white/50 text-sm mb-6">Our team is available Mon–Sat, 10AM to 6PM</p>
         <div className="flex gap-4 justify-center flex-wrap">
-          <a href="https://wa.me/919999999999" target="_blank" rel="noopener noreferrer"
+          <a href="https://wa.me/918968980650" target="_blank" rel="noopener noreferrer"
             className="px-6 py-3 bg-green-500 text-white font-bold rounded-xl hover:bg-green-400 transition-colors text-sm">
             WhatsApp Us
           </a>

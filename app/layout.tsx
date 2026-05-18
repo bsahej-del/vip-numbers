@@ -48,7 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                   <p className="text-white/60 font-semibold mb-4 text-sm uppercase tracking-widest">Contact</p>
                   <div className="space-y-3 text-sm text-white/40">
                     <p>📞 Mon–Sat, 10AM–6PM</p>
-                    <a href="https://wa.me/919999999999" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-green-400 transition-colors">
+                    <a href="https://wa.me/918968980650" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-green-400 transition-colors">
                       <span className="text-green-400">●</span> WhatsApp Us
                     </a>
                     <p>✉ info@vipnumbers.in</p>

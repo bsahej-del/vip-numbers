@@ -75,7 +75,7 @@ export default async function NumberDetailPage({
           {num.available ? (
             <div className="flex gap-3">
               <AddToCartButton num={num} />
-              <a href="https://wa.me/919999999999" target="_blank" rel="noopener noreferrer"
+              <a href="https://wa.me/918968980650" target="_blank" rel="noopener noreferrer"
                 className="px-6 py-4 bg-green-500 text-white font-bold rounded-xl hover:bg-green-400 transition-colors text-sm">
                 Buy via WhatsApp
               </a>

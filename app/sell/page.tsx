@@ -27,7 +27,7 @@ export default function SellPage() {
         <h1 className="text-3xl font-black text-white mb-4">Submission Received!</h1>
         <p className="text-white/50 mb-4">We&apos;ll review your number and contact you within 24 hours if the price is acceptable.</p>
         <p className="text-white/30 text-sm mb-8">Contact us on WhatsApp for faster response.</p>
-        <a href="https://wa.me/919999999999" target="_blank" rel="noopener noreferrer"
+        <a href="https://wa.me/918968980650" target="_blank" rel="noopener noreferrer"
           className="inline-block px-8 py-4 bg-green-500 text-white font-bold rounded-xl hover:bg-green-400 transition-colors">
           Chat on WhatsApp
         </a>

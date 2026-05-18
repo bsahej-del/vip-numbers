@@ -1,122 +1,20 @@
 [
-  {
-    "id": "1",
-    "number": "+91 99999 99999",
-    "price": 500000,
-    "category": "platinum",
-    "pattern": "Repeating 9s",
-    "description": "The most iconic VIP number — ten 9s. Absolute top-tier for any business or celebrity.",
-    "available": true,
-    "featured": true
-  },
-  {
-    "id": "2",
-    "number": "+91 88888 88888",
-    "price": 450000,
-    "category": "platinum",
-    "pattern": "Repeating 8s",
-    "description": "Eight is the luckiest number in many cultures. Six consecutive 8s — extremely rare.",
-    "available": true,
-    "featured": true
-  },
-  {
-    "id": "3",
-    "number": "+91 77777 77777",
-    "price": 380000,
-    "category": "platinum",
-    "pattern": "Repeating 7s",
-    "description": "Lucky 7s all the way. Premium number that commands instant attention and recall.",
-    "available": true,
-    "featured": true
-  },
-  {
-    "id": "4",
-    "number": "+91 90000 00009",
-    "price": 250000,
-    "category": "platinum",
-    "pattern": "Bookend",
-    "description": "Starts and ends with 9 with zeros in between. Elegant, minimal, unforgettable.",
-    "available": true,
-    "featured": true
-  },
-  {
-    "id": "5",
-    "number": "+91 98765 43210",
-    "price": 150000,
-    "category": "gold",
-    "pattern": "Full descending sequence",
-    "description": "Perfect countdown from 9 to 0. The most memorable sequential pattern possible.",
-    "available": true,
-    "featured": true
-  },
-  {
-    "id": "6",
-    "number": "+91 90909 09090",
-    "price": 120000,
-    "category": "gold",
-    "pattern": "Alternating 9-0",
-    "description": "Alternating 9 and 0 pattern throughout. Highly distinctive and easy to remember.",
-    "available": true,
-    "featured": false
-  },
-  {
-    "id": "7",
-    "number": "+91 91111 11111",
-    "price": 200000,
-    "category": "platinum",
-    "pattern": "Repeating 1s",
-    "description": "Nine consecutive 1s — pure and powerful. Perfect for a brand that stands for simplicity.",
-    "available": true,
-    "featured": false
-  },
-  {
-    "id": "8",
-    "number": "+91 98989 89898",
-    "price": 95000,
-    "category": "gold",
-    "pattern": "Alternating 9-8",
-    "description": "Alternating 9 and 8 — top two digits, alternating perfectly. Very rare pattern.",
-    "available": true,
-    "featured": false
-  },
-  {
-    "id": "9",
-    "number": "+91 80000 00008",
-    "price": 180000,
-    "category": "platinum",
-    "pattern": "Palindrome",
-    "description": "Perfect palindrome — reads the same forwards and backwards. One of a kind.",
-    "available": true,
-    "featured": false
-  },
-  {
-    "id": "10",
-    "number": "+91 99100 00199",
-    "price": 45000,
-    "category": "silver",
-    "pattern": "Mirror ends",
-    "description": "Mirrored digits at both ends with clean zeros in the middle. Elegant pattern.",
-    "available": true,
-    "featured": false
-  },
-  {
-    "id": "11",
-    "number": "+91 70007 00070",
-    "price": 55000,
-    "category": "silver",
-    "pattern": "Triple bookend",
-    "description": "7s framing zeros in a repeating bookend pattern. Unique and highly recognizable.",
-    "available": false,
-    "featured": false
-  },
-  {
-    "id": "12",
-    "number": "+91 98001 10089",
-    "price": 25000,
-    "category": "silver",
-    "pattern": "Palindrome",
-    "description": "Reads the same from both ends. A solid VIP number at a great price point.",
-    "available": true,
-    "featured": false
-  }
+  {"id":"1","number":"+91 99999 99999","digits":"9999999999","price":500000,"category":"platinum","pattern":"Repeating 9s","description":"The most iconic VIP number — ten 9s. Absolute top-tier for any business or celebrity.","available":true,"featured":true,"operator":"jio","state":"Delhi","type":"prepaid"},
+  {"id":"2","number":"+91 88888 88888","digits":"8888888888","price":450000,"category":"platinum","pattern":"Repeating 8s","description":"Eight is the luckiest number. Six consecutive 8s — extremely rare and powerful.","available":true,"featured":true,"operator":"airtel","state":"Mumbai","type":"prepaid"},
+  {"id":"3","number":"+91 77777 77777","digits":"7777777777","price":380000,"category":"platinum","pattern":"Repeating 7s","description":"Lucky 7s all the way. Premium number that commands instant attention and recall.","available":true,"featured":true,"operator":"vi","state":"Bangalore","type":"prepaid"},
+  {"id":"4","number":"+91 90000 00009","digits":"9000000009","price":250000,"category":"platinum","pattern":"Bookend","description":"Starts and ends with 9 with zeros in between. Elegant, minimal, unforgettable.","available":true,"featured":true,"operator":"airtel","state":"Punjab","type":"postpaid"},
+  {"id":"5","number":"+91 98765 43210","digits":"9876543210","price":150000,"category":"gold","pattern":"Full descending sequence","description":"Perfect countdown from 9 to 0. The most memorable sequential pattern possible.","available":true,"featured":true,"operator":"jio","state":"Chennai","type":"prepaid"},
+  {"id":"6","number":"+91 90909 09090","digits":"9090909090","price":120000,"category":"gold","pattern":"Alternating 9-0","description":"Alternating 9 and 0 pattern throughout. Highly distinctive and easy to remember.","available":true,"featured":false,"operator":"bsnl","state":"Hyderabad","type":"prepaid"},
+  {"id":"7","number":"+91 91111 11119","digits":"9111111119","price":200000,"category":"platinum","pattern":"Bookend 9s","description":"Nine 1s bookended by 9s — pure and powerful. Perfect for a brand that stands for unity.","available":true,"featured":false,"operator":"airtel","state":"Kolkata","type":"prepaid"},
+  {"id":"8","number":"+91 98989 89898","digits":"9898989898","price":95000,"category":"gold","pattern":"Alternating 9-8","description":"Alternating 9 and 8 — top two digits alternating perfectly. Very rare pattern.","available":true,"featured":false,"operator":"vi","state":"Pune","type":"postpaid"},
+  {"id":"9","number":"+91 80000 00008","digits":"8000000008","price":180000,"category":"platinum","pattern":"Palindrome","description":"Perfect palindrome — reads the same forwards and backwards. One of a kind.","available":true,"featured":false,"operator":"jio","state":"Ahmedabad","type":"prepaid"},
+  {"id":"10","number":"+91 99100 00199","digits":"9910000199","price":45000,"category":"silver","pattern":"Mirror ends","description":"Mirrored digits at both ends with clean zeros in the middle. Elegant pattern.","available":true,"featured":false,"operator":"idea","state":"Jaipur","type":"prepaid"},
+  {"id":"11","number":"+91 70007 00070","digits":"7000700070","price":55000,"category":"silver","pattern":"Triple bookend","description":"7s framing zeros in a repeating bookend pattern. Unique and highly recognizable.","available":false,"featured":false,"operator":"bsnl","state":"Karnataka","type":"prepaid"},
+  {"id":"12","number":"+91 98001 10089","digits":"9800110089","price":25000,"category":"silver","pattern":"Palindrome","description":"Reads the same from both ends. A solid VIP number at a great price point.","available":true,"featured":false,"operator":"airtel","state":"Kerala","type":"prepaid"},
+  {"id":"13","number":"+91 91111 11111","digits":"9111111111","price":220000,"category":"platinum","pattern":"Repeating 1s","description":"Nine consecutive 1s — clean, strong, and unforgettable for any brand.","available":true,"featured":false,"operator":"jio","state":"Delhi","type":"postpaid"},
+  {"id":"14","number":"+91 95555 55559","digits":"9555555559","price":190000,"category":"platinum","pattern":"Bookend 9s with 5s","description":"A wall of 5s framed by 9s. Strikes the perfect balance of luck and power.","available":true,"featured":false,"operator":"airtel","state":"Mumbai","type":"prepaid"},
+  {"id":"15","number":"+91 90000 09999","digits":"9000009999","price":85000,"category":"gold","pattern":"Zeros to 9s","description":"Clean transition from zeros to 9s. Visually stunning and easy to recall.","available":true,"featured":false,"operator":"vi","state":"Gujarat","type":"prepaid"},
+  {"id":"16","number":"+91 99990 00000","digits":"9999000000","price":110000,"category":"gold","pattern":"4 nines then zeros","description":"Four 9s followed by six zeros. Bold contrast pattern — rare and striking.","available":true,"featured":false,"operator":"idea","state":"Rajasthan","type":"postpaid"},
+  {"id":"17","number":"+91 96666 66669","digits":"9666666669","price":175000,"category":"platinum","pattern":"Bookend 9s with 6s","description":"Seven 6s enclosed by 9s. Powerful numerology value — lucky and rare.","available":true,"featured":false,"operator":"jio","state":"Haryana","type":"prepaid"},
+  {"id":"18","number":"+91 87654 32109","digits":"8765432109","price":65000,"category":"gold","pattern":"Descending sequence","description":"Clean descending run from 8 to 0. Smooth, sequential, and memorable.","available":true,"featured":false,"operator":"bsnl","state":"Tamil Nadu","type":"prepaid"}
 ]
